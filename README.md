@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Currently I am working on porting FreeCAD to Jupyter Notebook:
+
+
+
 <!--
 **kryptokommunist/kryptokommunist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
