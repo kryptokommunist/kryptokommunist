@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently I am working on porting FreeCAD to Jupyter Notebook:
+Currently I am working on porting FreeCAD to Jupyter Notebook and building a lamp called tolv. I am interested in art and technology.
 
 
 
