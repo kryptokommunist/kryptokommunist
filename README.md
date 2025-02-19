@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently I am working on porting FreeCAD to Jupyter Notebook and building a lamp called tolv. I am interested in art and technology.
+I am interested in art and technology. Please check out my *portfolio here: [kryptokommun.ist/portfolio](https://kryptokommun.ist/portfolio/)*
 
 
 
